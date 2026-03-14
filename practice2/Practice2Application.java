@@ -1,4 +1,6 @@
 package com.practice2.practice2;
+
+import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -7,4 +9,5 @@ public class Practice2Application {
     public static void main(String[] args) {
         SpringApplication.run(Practice2Application.class, args);
     }
+
 }
